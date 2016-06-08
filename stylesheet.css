@@ -2,7 +2,13 @@ img{
   width: 30%;
   border: 3px solid black;
   border-radius: 15px;
+  position:relative;
+  width:35%;
   }
 body{
   background: #366E11;
+}
+article{
+  position:relative;
+  width:65%;
 }
