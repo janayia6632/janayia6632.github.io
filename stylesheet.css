@@ -8,7 +8,7 @@ img{
 body{
   background: #366E11;
 }
-article{
+p{
   position:relative;
-  width:65%;
+  width:35%;
 }
