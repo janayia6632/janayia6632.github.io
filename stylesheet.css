@@ -5,6 +5,7 @@ img{
   position:relative;
   width:15%;
   left:200px;
+  display:block;
   }
 body{
   background: #366E11;
